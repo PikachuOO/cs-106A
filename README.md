@@ -1,2 +1,2 @@
 # CS106A-Programming-Abstraction-Solutions
-Solutions of cs106a all assignments,handouts and some selected other potential programs
+Solutions of cs106a's all assignment, handouts and some other potential programs
